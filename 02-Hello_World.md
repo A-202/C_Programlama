@@ -2,7 +2,7 @@
 Merhaba arkadaşlar bu dersimizde C dilinde ilk
 kodumuzu yazacağız
 
-
+___________________________________________________
 #include <stdio.h>
 
 int main()
@@ -13,7 +13,7 @@ int main()
 
     return 0;
 }
-
+___________________________________________________
 Evet Hello World ü yazdırmak için bu kodu 
 kullanıyoruz tamam sizde bir sorun çıkmadıysa
 devam edebiliriz şimdi ise kodumuzu tanıyalım
