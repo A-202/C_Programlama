@@ -25,6 +25,7 @@ hangisini kullanacağız
 
 # IDE Olarak :
 - CLion
+
 İndirme Linki : jetbrains.com/clion/download
 
 Tabi ben her ikisine birer örnek verdim siz 
