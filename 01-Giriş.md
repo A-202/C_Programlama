@@ -5,7 +5,7 @@ kullanacağımız ortamı seçeceğiz
 peki ya hangisini
 aslında siz istediğiniz IDE veya editörü 
 kullanabilirsiniz
-Editör ne IDE ne onlarda ne diyorsanız
+Editör ne IDE ne diyorsanız
 
 - IDE : IDE size tüm ihtiyacınız olan geliştirici 
         araçlarını verecektir
