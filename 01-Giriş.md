@@ -21,7 +21,7 @@ hangisini kullanacağız
 # Editör Olarak :
 - Notepad++
 
-İndirme Linki : notepad-plus-plus.org/downloads
+İndirme Linki :  notepad-plus-plus.org/downloads
 
 # IDE Olarak :
 - CLion
