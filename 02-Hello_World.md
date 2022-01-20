@@ -27,7 +27,7 @@ devam edebiliriz şimdi ise kodumuzu tanıyalım
 3. { : main fonksiyonunun başladığı yeri belirtir
 
 
-4. printf("Hello World"); : Bu satırda "merhaba, dünya" yazısını (karakter dizisini) ekrana bastırmak için printf fonksiyonu çağrılır ki bu fonksiyonu 1. satırdaki stdio.h başlık dosyası ile programa dahil etmiştik
+4. printf("Hello World"); : Bu satırda "Hello World" yazısını (karakter dizisini) ekrana bastırmak için printf fonksiyonu çağrılır ki bu fonksiyonu 1. satırdaki stdio.h başlık dosyası ile programa dahil etmiştik
 
 
 5. return 0; : return kodu main fonksiyonumuzu 0 geri dönüş değeriyle sonlandırır
